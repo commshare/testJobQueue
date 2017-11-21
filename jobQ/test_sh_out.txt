@@ -1,0 +1,1787 @@
+
+zhangbin@DESKTOP-1QV8QU4 MINGW64 /v/RECORD_TEST/refref/testJobQueue/jobQ
+$ ./test.sh
+2017/11/21 14:26:04 Multi init
+default_pprof.go:48: Multi : web pprofiling enabled : listening :6060
+jobq_test.go:157: task err [jobq: queue size exceeded][6]
+jobq_test.go:157: task err [jobq: queue size exceeded][7]
+jobq_test.go:157: task err [jobq: queue size exceeded][8]
+jobq_test.go:157: task err [jobq: queue size exceeded][9]
+jobq_test.go:157: task err [jobq: queue size exceeded][10]
+jobq_test.go:157: task err [jobq: queue size exceeded][11]
+jobq_test.go:157: task err [jobq: queue size exceeded][13]
+jobq_test.go:157: task err [jobq: queue size exceeded][14]
+jobq_test.go:157: task err [jobq: queue size exceeded][15]
+jobq_test.go:157: task err [jobq: queue size exceeded][16]
+jobq_test.go:157: task err [jobq: queue size exceeded][17]
+jobq_test.go:157: task err [jobq: queue size exceeded][18]
+jobq_test.go:157: task err [jobq: queue size exceeded][19]
+jobq_test.go:157: task err [jobq: queue size exceeded][20]
+jobq_test.go:157: task err [jobq: queue size exceeded][21]
+jobq_test.go:157: task err [jobq: queue size exceeded][22]
+jobq_test.go:157: task err [jobq: queue size exceeded][24]
+jobq_test.go:157: task err [jobq: queue size exceeded][25]
+jobq_test.go:157: task err [jobq: queue size exceeded][26]
+jobq_test.go:157: task err [jobq: queue size exceeded][27]
+jobq_test.go:157: task err [jobq: queue size exceeded][28]
+jobq_test.go:157: task err [jobq: queue size exceeded][29]
+jobq_test.go:157: task err [jobq: queue size exceeded][30]
+jobq_test.go:157: task err [jobq: queue size exceeded][31]
+jobq_test.go:157: task err [jobq: queue size exceeded][32]
+jobq_test.go:157: task err [jobq: queue size exceeded][33]
+jobq_test.go:157: task err [jobq: queue size exceeded][35]
+jobq_test.go:157: task err [jobq: queue size exceeded][36]
+jobq_test.go:157: task err [jobq: queue size exceeded][37]
+jobq_test.go:157: task err [jobq: queue size exceeded][38]
+jobq_test.go:157: task err [jobq: queue size exceeded][39]
+jobq_test.go:157: task err [jobq: queue size exceeded][40]
+jobq_test.go:157: task err [jobq: queue size exceeded][41]
+jobq_test.go:157: task err [jobq: queue size exceeded][42]
+jobq_test.go:157: task err [jobq: queue size exceeded][43]
+jobq_test.go:157: task err [jobq: queue size exceeded][45]
+jobq_test.go:157: task err [jobq: queue size exceeded][46]
+jobq_test.go:157: task err [jobq: queue size exceeded][47]
+jobq_test.go:157: task err [jobq: queue size exceeded][48]
+jobq_test.go:157: task err [jobq: queue size exceeded][49]
+jobq_test.go:157: task err [jobq: queue size exceeded][50]
+jobq_test.go:157: task err [jobq: queue size exceeded][51]
+jobq_test.go:157: task err [jobq: queue size exceeded][52]
+jobq_test.go:157: task err [jobq: queue size exceeded][53]
+jobq_test.go:157: task err [jobq: queue size exceeded][55]
+jobq_test.go:157: task err [jobq: queue size exceeded][56]
+jobq_test.go:157: task err [jobq: queue size exceeded][57]
+jobq_test.go:157: task err [jobq: queue size exceeded][58]
+jobq_test.go:157: task err [jobq: queue size exceeded][59]
+jobq_test.go:157: task err [jobq: queue size exceeded][60]
+jobq_test.go:157: task err [jobq: queue size exceeded][61]
+jobq_test.go:157: task err [jobq: queue size exceeded][62]
+jobq_test.go:157: task err [jobq: queue size exceeded][63]
+jobq_test.go:157: task err [jobq: queue size exceeded][64]
+jobq_test.go:157: task err [jobq: queue size exceeded][66]
+jobq_test.go:157: task err [jobq: queue size exceeded][67]
+jobq_test.go:157: task err [jobq: queue size exceeded][68]
+jobq_test.go:157: task err [jobq: queue size exceeded][69]
+jobq_test.go:157: task err [jobq: queue size exceeded][70]
+jobq_test.go:157: task err [jobq: queue size exceeded][71]
+jobq_test.go:157: task err [jobq: queue size exceeded][72]
+jobq_test.go:157: task err [jobq: queue size exceeded][73]
+jobq_test.go:157: task err [jobq: queue size exceeded][74]
+jobq_test.go:157: task err [jobq: queue size exceeded][75]
+jobq_test.go:157: task err [jobq: queue size exceeded][76]
+jobq_test.go:157: task err [jobq: queue size exceeded][77]
+jobq_test.go:157: task err [jobq: queue size exceeded][78]
+jobq_test.go:157: task err [jobq: queue size exceeded][79]
+jobq_test.go:157: task err [jobq: queue size exceeded][80]
+jobq_test.go:157: task err [jobq: queue size exceeded][81]
+jobq_test.go:157: task err [jobq: queue size exceeded][82]
+jobq_test.go:157: task err [jobq: queue size exceeded][83]
+jobq_test.go:157: task err [jobq: queue size exceeded][84]
+jobq_test.go:157: task err [jobq: queue size exceeded][85]
+jobq_test.go:157: task err [jobq: queue size exceeded][86]
+jobq_test.go:157: task err [jobq: queue size exceeded][87]
+jobq_test.go:157: task err [jobq: queue size exceeded][88]
+jobq_test.go:157: task err [jobq: queue size exceeded][89]
+jobq_test.go:157: task err [jobq: queue size exceeded][90]
+jobq_test.go:157: task err [jobq: queue size exceeded][91]
+jobq_test.go:157: task err [jobq: queue size exceeded][92]
+jobq_test.go:157: task err [jobq: queue size exceeded][93]
+jobq_test.go:157: task err [jobq: queue size exceeded][94]
+jobq_test.go:157: task err [jobq: queue size exceeded][95]
+jobq_test.go:157: task err [jobq: queue size exceeded][96]
+jobq_test.go:157: task err [jobq: queue size exceeded][97]
+jobq_test.go:157: task err [jobq: queue size exceeded][98]
+jobq_test.go:157: task err [jobq: queue size exceeded][99]
+jobq_test.go:157: task err [jobq: queue size exceeded][100]
+jobq_test.go:157: task err [jobq: queue size exceeded][101]
+jobq_test.go:157: task err [jobq: queue size exceeded][102]
+jobq_test.go:157: task err [jobq: queue size exceeded][103]
+jobq_test.go:157: task err [jobq: queue size exceeded][104]
+jobq_test.go:157: task err [jobq: queue size exceeded][105]
+jobq_test.go:157: task err [jobq: queue size exceeded][106]
+jobq_test.go:157: task err [jobq: queue size exceeded][107]
+jobq_test.go:157: task err [jobq: queue size exceeded][108]
+jobq_test.go:157: task err [jobq: queue size exceeded][109]
+jobq_test.go:157: task err [jobq: queue size exceeded][110]
+jobq_test.go:157: task err [jobq: queue size exceeded][111]
+jobq_test.go:157: task err [jobq: queue size exceeded][112]
+jobq_test.go:157: task err [jobq: queue size exceeded][113]
+jobq_test.go:157: task err [jobq: queue size exceeded][114]
+jobq_test.go:157: task err [jobq: queue size exceeded][115]
+jobq_test.go:157: task err [jobq: queue size exceeded][116]
+jobq_test.go:157: task err [jobq: queue size exceeded][117]
+jobq_test.go:157: task err [jobq: queue size exceeded][118]
+jobq_test.go:157: task err [jobq: queue size exceeded][119]
+jobq_test.go:157: task err [jobq: queue size exceeded][120]
+jobq_test.go:157: task err [jobq: queue size exceeded][121]
+jobq_test.go:157: task err [jobq: queue size exceeded][122]
+jobq_test.go:157: task err [jobq: queue size exceeded][123]
+jobq_test.go:157: task err [jobq: queue size exceeded][124]
+jobq_test.go:157: task err [jobq: queue size exceeded][125]
+jobq_test.go:157: task err [jobq: queue size exceeded][126]
+jobq_test.go:157: task err [jobq: queue size exceeded][127]
+jobq_test.go:157: task err [jobq: queue size exceeded][128]
+jobq_test.go:157: task err [jobq: queue size exceeded][129]
+jobq_test.go:157: task err [jobq: queue size exceeded][130]
+jobq_test.go:157: task err [jobq: queue size exceeded][131]
+jobq_test.go:157: task err [jobq: queue size exceeded][132]
+jobq_test.go:157: task err [jobq: queue size exceeded][133]
+jobq_test.go:157: task err [jobq: queue size exceeded][134]
+jobq_test.go:157: task err [jobq: queue size exceeded][135]
+jobq_test.go:157: task err [jobq: queue size exceeded][136]
+jobq_test.go:157: task err [jobq: queue size exceeded][137]
+jobq_test.go:157: task err [jobq: queue size exceeded][138]
+jobq_test.go:157: task err [jobq: queue size exceeded][139]
+jobq_test.go:157: task err [jobq: queue size exceeded][140]
+jobq_test.go:157: task err [jobq: queue size exceeded][141]
+jobq_test.go:157: task err [jobq: queue size exceeded][142]
+jobq_test.go:157: task err [jobq: queue size exceeded][143]
+jobq_test.go:157: task err [jobq: queue size exceeded][144]
+jobq_test.go:157: task err [jobq: queue size exceeded][145]
+jobq_test.go:157: task err [jobq: queue size exceeded][146]
+jobq_test.go:157: task err [jobq: queue size exceeded][147]
+jobq_test.go:157: task err [jobq: queue size exceeded][148]
+jobq_test.go:157: task err [jobq: queue size exceeded][149]
+jobq_test.go:157: task err [jobq: queue size exceeded][150]
+jobq_test.go:157: task err [jobq: queue size exceeded][151]
+jobq_test.go:157: task err [jobq: queue size exceeded][152]
+jobq_test.go:157: task err [jobq: queue size exceeded][153]
+jobq_test.go:157: task err [jobq: queue size exceeded][154]
+jobq_test.go:157: task err [jobq: queue size exceeded][155]
+jobq_test.go:157: task err [jobq: queue size exceeded][156]
+jobq_test.go:157: task err [jobq: queue size exceeded][157]
+jobq_test.go:157: task err [jobq: queue size exceeded][158]
+jobq_test.go:157: task err [jobq: queue size exceeded][159]
+jobq_test.go:157: task err [jobq: queue size exceeded][160]
+jobq_test.go:157: task err [jobq: queue size exceeded][161]
+jobq_test.go:157: task err [jobq: queue size exceeded][162]
+jobq_test.go:157: task err [jobq: queue size exceeded][163]
+jobq_test.go:157: task err [jobq: queue size exceeded][164]
+jobq_test.go:157: task err [jobq: queue size exceeded][165]
+jobq_test.go:157: task err [jobq: queue size exceeded][166]
+jobq_test.go:157: task err [jobq: queue size exceeded][167]
+jobq_test.go:157: task err [jobq: queue size exceeded][168]
+jobq_test.go:157: task err [jobq: queue size exceeded][169]
+jobq_test.go:157: task err [jobq: queue size exceeded][170]
+jobq_test.go:157: task err [jobq: queue size exceeded][171]
+jobq_test.go:157: task err [jobq: queue size exceeded][172]
+jobq_test.go:157: task err [jobq: queue size exceeded][173]
+jobq_test.go:157: task err [jobq: queue size exceeded][174]
+jobq_test.go:157: task err [jobq: queue size exceeded][175]
+jobq_test.go:157: task err [jobq: queue size exceeded][176]
+jobq_test.go:157: task err [jobq: queue size exceeded][177]
+jobq_test.go:157: task err [jobq: queue size exceeded][178]
+jobq_test.go:157: task err [jobq: queue size exceeded][179]
+jobq_test.go:157: task err [jobq: queue size exceeded][180]
+jobq_test.go:157: task err [jobq: queue size exceeded][181]
+jobq_test.go:157: task err [jobq: queue size exceeded][182]
+jobq_test.go:157: task err [jobq: queue size exceeded][183]
+jobq_test.go:157: task err [jobq: queue size exceeded][184]
+jobq_test.go:157: task err [jobq: queue size exceeded][185]
+jobq_test.go:157: task err [jobq: queue size exceeded][186]
+jobq_test.go:157: task err [jobq: queue size exceeded][187]
+jobq_test.go:157: task err [jobq: queue size exceeded][188]
+jobq_test.go:157: task err [jobq: queue size exceeded][189]
+jobq_test.go:157: task err [jobq: queue size exceeded][190]
+jobq_test.go:157: task err [jobq: queue size exceeded][191]
+jobq_test.go:157: task err [jobq: queue size exceeded][192]
+jobq_test.go:157: task err [jobq: queue size exceeded][193]
+jobq_test.go:157: task err [jobq: queue size exceeded][194]
+jobq_test.go:157: task err [jobq: queue size exceeded][195]
+jobq_test.go:157: task err [jobq: queue size exceeded][196]
+jobq_test.go:157: task err [jobq: queue size exceeded][197]
+jobq_test.go:157: task err [jobq: queue size exceeded][198]
+jobq_test.go:157: task err [jobq: queue size exceeded][199]
+jobq_test.go:157: task err [jobq: queue size exceeded][200]
+jobq_test.go:157: task err [jobq: queue size exceeded][201]
+jobq_test.go:157: task err [jobq: queue size exceeded][202]
+jobq_test.go:157: task err [jobq: queue size exceeded][203]
+jobq_test.go:157: task err [jobq: queue size exceeded][204]
+jobq_test.go:157: task err [jobq: queue size exceeded][205]
+jobq_test.go:157: task err [jobq: queue size exceeded][206]
+jobq_test.go:157: task err [jobq: queue size exceeded][207]
+jobq_test.go:157: task err [jobq: queue size exceeded][208]
+jobq_test.go:157: task err [jobq: queue size exceeded][209]
+jobq_test.go:157: task err [jobq: queue size exceeded][210]
+jobq_test.go:157: task err [jobq: queue size exceeded][211]
+jobq_test.go:157: task err [jobq: queue size exceeded][212]
+jobq_test.go:157: task err [jobq: queue size exceeded][213]
+jobq_test.go:157: task err [jobq: queue size exceeded][214]
+jobq_test.go:157: task err [jobq: queue size exceeded][215]
+jobq_test.go:157: task err [jobq: queue size exceeded][216]
+jobq_test.go:157: task err [jobq: queue size exceeded][217]
+jobq_test.go:157: task err [jobq: queue size exceeded][218]
+jobq_test.go:157: task err [jobq: queue size exceeded][219]
+jobq_test.go:157: task err [jobq: queue size exceeded][220]
+jobq_test.go:157: task err [jobq: queue size exceeded][221]
+jobq_test.go:157: task err [jobq: queue size exceeded][222]
+jobq_test.go:157: task err [jobq: queue size exceeded][223]
+jobq_test.go:157: task err [jobq: queue size exceeded][224]
+jobq_test.go:157: task err [jobq: queue size exceeded][225]
+jobq_test.go:157: task err [jobq: queue size exceeded][226]
+jobq_test.go:157: task err [jobq: queue size exceeded][227]
+jobq_test.go:157: task err [jobq: queue size exceeded][228]
+jobq_test.go:157: task err [jobq: queue size exceeded][229]
+jobq_test.go:157: task err [jobq: queue size exceeded][230]
+jobq_test.go:157: task err [jobq: queue size exceeded][231]
+jobq_test.go:157: task err [jobq: queue size exceeded][232]
+jobq_test.go:157: task err [jobq: queue size exceeded][233]
+jobq_test.go:157: task err [jobq: queue size exceeded][234]
+jobq_test.go:157: task err [jobq: queue size exceeded][235]
+jobq_test.go:157: task err [jobq: queue size exceeded][236]
+jobq_test.go:157: task err [jobq: queue size exceeded][237]
+jobq_test.go:157: task err [jobq: queue size exceeded][238]
+jobq_test.go:157: task err [jobq: queue size exceeded][239]
+jobq_test.go:157: task err [jobq: queue size exceeded][240]
+jobq_test.go:157: task err [jobq: queue size exceeded][241]
+jobq_test.go:157: task err [jobq: queue size exceeded][242]
+jobq_test.go:157: task err [jobq: queue size exceeded][243]
+jobq_test.go:157: task err [jobq: queue size exceeded][244]
+jobq_test.go:157: task err [jobq: queue size exceeded][245]
+jobq_test.go:157: task err [jobq: queue size exceeded][246]
+jobq_test.go:157: task err [jobq: queue size exceeded][247]
+jobq_test.go:157: task err [jobq: queue size exceeded][248]
+jobq_test.go:157: task err [jobq: queue size exceeded][249]
+jobq_test.go:157: task err [jobq: queue size exceeded][250]
+jobq_test.go:157: task err [jobq: queue size exceeded][251]
+jobq_test.go:157: task err [jobq: queue size exceeded][253]
+jobq_test.go:157: task err [jobq: queue size exceeded][254]
+jobq_test.go:157: task err [jobq: queue size exceeded][255]
+jobq_test.go:157: task err [jobq: queue size exceeded][256]
+jobq_test.go:157: task err [jobq: queue size exceeded][257]
+jobq_test.go:157: task err [jobq: queue size exceeded][258]
+jobq_test.go:157: task err [jobq: queue size exceeded][260]
+jobq_test.go:157: task err [jobq: queue size exceeded][261]
+jobq_test.go:157: task err [jobq: queue size exceeded][263]
+jobq_test.go:157: task err [jobq: queue size exceeded][264]
+jobq_test.go:157: task err [jobq: queue size exceeded][265]
+jobq_test.go:157: task err [jobq: queue size exceeded][266]
+jobq_test.go:157: task err [jobq: queue size exceeded][267]
+jobq_test.go:157: task err [jobq: queue size exceeded][269]
+jobq_test.go:157: task err [jobq: queue size exceeded][270]
+jobq_test.go:157: task err [jobq: queue size exceeded][271]
+jobq_test.go:157: task err [jobq: queue size exceeded][272]
+jobq_test.go:157: task err [jobq: queue size exceeded][273]
+jobq_test.go:157: task err [jobq: queue size exceeded][275]
+jobq_test.go:157: task err [jobq: queue size exceeded][276]
+jobq_test.go:157: task err [jobq: queue size exceeded][277]
+jobq_test.go:157: task err [jobq: queue size exceeded][278]
+jobq_test.go:157: task err [jobq: queue size exceeded][280]
+jobq_test.go:157: task err [jobq: queue size exceeded][281]
+jobq_test.go:157: task err [jobq: queue size exceeded][282]
+jobq_test.go:157: task err [jobq: queue size exceeded][283]
+jobq_test.go:157: task err [jobq: queue size exceeded][285]
+jobq_test.go:157: task err [jobq: queue size exceeded][286]
+jobq_test.go:157: task err [jobq: queue size exceeded][287]
+jobq_test.go:157: task err [jobq: queue size exceeded][288]
+jobq_test.go:157: task err [jobq: queue size exceeded][290]
+jobq_test.go:157: task err [jobq: queue size exceeded][291]
+jobq_test.go:157: task err [jobq: queue size exceeded][292]
+jobq_test.go:157: task err [jobq: queue size exceeded][293]
+jobq_test.go:157: task err [jobq: queue size exceeded][294]
+jobq_test.go:157: task err [jobq: queue size exceeded][296]
+jobq_test.go:157: task err [jobq: queue size exceeded][297]
+jobq_test.go:157: task err [jobq: queue size exceeded][298]
+jobq_test.go:157: task err [jobq: queue size exceeded][299]
+jobq_test.go:157: task err [jobq: queue size exceeded][300]
+jobq_test.go:157: task err [jobq: queue size exceeded][302]
+jobq_test.go:157: task err [jobq: queue size exceeded][303]
+jobq_test.go:157: task err [jobq: queue size exceeded][304]
+jobq_test.go:157: task err [jobq: queue size exceeded][305]
+jobq_test.go:157: task err [jobq: queue size exceeded][306]
+jobq_test.go:157: task err [jobq: queue size exceeded][307]
+jobq_test.go:157: task err [jobq: queue size exceeded][309]
+jobq_test.go:157: task err [jobq: queue size exceeded][310]
+jobq_test.go:157: task err [jobq: queue size exceeded][311]
+jobq_test.go:157: task err [jobq: queue size exceeded][313]
+jobq_test.go:157: task err [jobq: queue size exceeded][314]
+jobq_test.go:157: task err [jobq: queue size exceeded][315]
+jobq_test.go:157: task err [jobq: queue size exceeded][316]
+jobq_test.go:157: task err [jobq: queue size exceeded][317]
+jobq_test.go:157: task err [jobq: queue size exceeded][319]
+jobq_test.go:157: task err [jobq: queue size exceeded][320]
+jobq_test.go:157: task err [jobq: queue size exceeded][321]
+jobq_test.go:157: task err [jobq: queue size exceeded][322]
+jobq_test.go:157: task err [jobq: queue size exceeded][324]
+jobq_test.go:157: task err [jobq: queue size exceeded][325]
+jobq_test.go:157: task err [jobq: queue size exceeded][326]
+jobq_test.go:157: task err [jobq: queue size exceeded][327]
+jobq_test.go:157: task err [jobq: queue size exceeded][328]
+jobq_test.go:157: task err [jobq: queue size exceeded][330]
+jobq_test.go:157: task err [jobq: queue size exceeded][331]
+jobq_test.go:157: task err [jobq: queue size exceeded][332]
+jobq_test.go:157: task err [jobq: queue size exceeded][333]
+jobq_test.go:157: task err [jobq: queue size exceeded][335]
+jobq_test.go:157: task err [jobq: queue size exceeded][336]
+jobq_test.go:157: task err [jobq: queue size exceeded][337]
+jobq_test.go:157: task err [jobq: queue size exceeded][338]
+jobq_test.go:157: task err [jobq: queue size exceeded][339]
+jobq_test.go:157: task err [jobq: queue size exceeded][341]
+jobq_test.go:157: task err [jobq: queue size exceeded][342]
+jobq_test.go:157: task err [jobq: queue size exceeded][343]
+jobq_test.go:157: task err [jobq: queue size exceeded][344]
+jobq_test.go:157: task err [jobq: queue size exceeded][345]
+jobq_test.go:157: task err [jobq: queue size exceeded][347]
+jobq_test.go:157: task err [jobq: queue size exceeded][348]
+jobq_test.go:157: task err [jobq: queue size exceeded][349]
+jobq_test.go:157: task err [jobq: queue size exceeded][350]
+jobq_test.go:157: task err [jobq: queue size exceeded][351]
+jobq_test.go:157: task err [jobq: queue size exceeded][352]
+jobq_test.go:157: task err [jobq: queue size exceeded][353]
+jobq_test.go:157: task err [jobq: queue size exceeded][355]
+jobq_test.go:157: task err [jobq: queue size exceeded][356]
+jobq_test.go:157: task err [jobq: queue size exceeded][357]
+jobq_test.go:157: task err [jobq: queue size exceeded][358]
+jobq_test.go:157: task err [jobq: queue size exceeded][359]
+jobq_test.go:157: task err [jobq: queue size exceeded][360]
+jobq_test.go:157: task err [jobq: queue size exceeded][361]
+jobq_test.go:157: task err [jobq: queue size exceeded][363]
+jobq_test.go:157: task err [jobq: queue size exceeded][364]
+jobq_test.go:157: task err [jobq: queue size exceeded][365]
+jobq_test.go:157: task err [jobq: queue size exceeded][366]
+jobq_test.go:157: task err [jobq: queue size exceeded][367]
+jobq_test.go:157: task err [jobq: queue size exceeded][369]
+jobq_test.go:157: task err [jobq: queue size exceeded][370]
+jobq_test.go:157: task err [jobq: queue size exceeded][371]
+jobq_test.go:157: task err [jobq: queue size exceeded][372]
+jobq_test.go:157: task err [jobq: queue size exceeded][373]
+jobq_test.go:157: task err [jobq: queue size exceeded][374]
+jobq_test.go:157: task err [jobq: queue size exceeded][376]
+jobq_test.go:157: task err [jobq: queue size exceeded][377]
+jobq_test.go:157: task err [jobq: queue size exceeded][378]
+jobq_test.go:157: task err [jobq: queue size exceeded][379]
+jobq_test.go:157: task err [jobq: queue size exceeded][380]
+jobq_test.go:157: task err [jobq: queue size exceeded][381]
+jobq_test.go:157: task err [jobq: queue size exceeded][382]
+jobq_test.go:157: task err [jobq: queue size exceeded][384]
+jobq_test.go:157: task err [jobq: queue size exceeded][385]
+jobq_test.go:157: task err [jobq: queue size exceeded][386]
+jobq_test.go:157: task err [jobq: queue size exceeded][387]
+jobq_test.go:157: task err [jobq: queue size exceeded][388]
+jobq_test.go:157: task err [jobq: queue size exceeded][389]
+jobq_test.go:157: task err [jobq: queue size exceeded][390]
+jobq_test.go:157: task err [jobq: queue size exceeded][392]
+jobq_test.go:157: task err [jobq: queue size exceeded][393]
+jobq_test.go:157: task err [jobq: queue size exceeded][394]
+jobq_test.go:157: task err [jobq: queue size exceeded][395]
+jobq_test.go:157: task err [jobq: queue size exceeded][396]
+jobq_test.go:157: task err [jobq: queue size exceeded][397]
+jobq_test.go:157: task err [jobq: queue size exceeded][399]
+jobq_test.go:157: task err [jobq: queue size exceeded][400]
+jobq_test.go:157: task err [jobq: queue size exceeded][401]
+jobq_test.go:157: task err [jobq: queue size exceeded][402]
+jobq_test.go:157: task err [jobq: queue size exceeded][403]
+jobq_test.go:157: task err [jobq: queue size exceeded][405]
+jobq_test.go:157: task err [jobq: queue size exceeded][406]
+jobq_test.go:157: task err [jobq: queue size exceeded][407]
+jobq_test.go:157: task err [jobq: queue size exceeded][408]
+jobq_test.go:157: task err [jobq: queue size exceeded][409]
+jobq_test.go:157: task err [jobq: queue size exceeded][411]
+jobq_test.go:157: task err [jobq: queue size exceeded][412]
+jobq_test.go:157: task err [jobq: queue size exceeded][413]
+jobq_test.go:157: task err [jobq: queue size exceeded][414]
+jobq_test.go:157: task err [jobq: queue size exceeded][416]
+jobq_test.go:157: task err [jobq: queue size exceeded][417]
+jobq_test.go:157: task err [jobq: queue size exceeded][418]
+jobq_test.go:157: task err [jobq: queue size exceeded][419]
+jobq_test.go:157: task err [jobq: queue size exceeded][420]
+jobq_test.go:157: task err [jobq: queue size exceeded][421]
+jobq_test.go:157: task err [jobq: queue size exceeded][423]
+jobq_test.go:157: task err [jobq: queue size exceeded][424]
+jobq_test.go:157: task err [jobq: queue size exceeded][425]
+jobq_test.go:157: task err [jobq: queue size exceeded][427]
+jobq_test.go:157: task err [jobq: queue size exceeded][428]
+jobq_test.go:157: task err [jobq: queue size exceeded][429]
+jobq_test.go:157: task err [jobq: queue size exceeded][430]
+jobq_test.go:157: task err [jobq: queue size exceeded][431]
+jobq_test.go:157: task err [jobq: queue size exceeded][433]
+jobq_test.go:157: task err [jobq: queue size exceeded][434]
+jobq_test.go:157: task err [jobq: queue size exceeded][435]
+jobq_test.go:157: task err [jobq: queue size exceeded][436]
+jobq_test.go:157: task err [jobq: queue size exceeded][437]
+jobq_test.go:157: task err [jobq: queue size exceeded][438]
+jobq_test.go:157: task err [jobq: queue size exceeded][440]
+jobq_test.go:157: task err [jobq: queue size exceeded][441]
+jobq_test.go:157: task err [jobq: queue size exceeded][442]
+jobq_test.go:157: task err [jobq: queue size exceeded][443]
+jobq_test.go:157: task err [jobq: queue size exceeded][444]
+jobq_test.go:157: task err [jobq: queue size exceeded][445]
+jobq_test.go:157: task err [jobq: queue size exceeded][447]
+jobq_test.go:157: task err [jobq: queue size exceeded][448]
+jobq_test.go:157: task err [jobq: queue size exceeded][449]
+jobq_test.go:157: task err [jobq: queue size exceeded][450]
+jobq_test.go:157: task err [jobq: queue size exceeded][451]
+jobq_test.go:157: task err [jobq: queue size exceeded][452]
+jobq_test.go:157: task err [jobq: queue size exceeded][453]
+jobq_test.go:157: task err [jobq: queue size exceeded][455]
+jobq_test.go:157: task err [jobq: queue size exceeded][456]
+jobq_test.go:157: task err [jobq: queue size exceeded][457]
+jobq_test.go:157: task err [jobq: queue size exceeded][458]
+jobq_test.go:157: task err [jobq: queue size exceeded][460]
+jobq_test.go:157: task err [jobq: queue size exceeded][461]
+jobq_test.go:157: task err [jobq: queue size exceeded][462]
+jobq_test.go:157: task err [jobq: queue size exceeded][463]
+jobq_test.go:157: task err [jobq: queue size exceeded][465]
+jobq_test.go:157: task err [jobq: queue size exceeded][466]
+jobq_test.go:157: task err [jobq: queue size exceeded][467]
+jobq_test.go:157: task err [jobq: queue size exceeded][468]
+jobq_test.go:157: task err [jobq: queue size exceeded][470]
+jobq_test.go:157: task err [jobq: queue size exceeded][471]
+jobq_test.go:157: task err [jobq: queue size exceeded][472]
+jobq_test.go:157: task err [jobq: queue size exceeded][473]
+jobq_test.go:157: task err [jobq: queue size exceeded][474]
+jobq_test.go:157: task err [jobq: queue size exceeded][476]
+jobq_test.go:157: task err [jobq: queue size exceeded][477]
+jobq_test.go:157: task err [jobq: queue size exceeded][478]
+jobq_test.go:157: task err [jobq: queue size exceeded][479]
+jobq_test.go:157: task err [jobq: queue size exceeded][481]
+jobq_test.go:157: task err [jobq: queue size exceeded][482]
+jobq_test.go:157: task err [jobq: queue size exceeded][483]
+jobq_test.go:157: task err [jobq: queue size exceeded][484]
+jobq_test.go:157: task err [jobq: queue size exceeded][485]
+jobq_test.go:157: task err [jobq: queue size exceeded][486]
+jobq_test.go:157: task err [jobq: queue size exceeded][487]
+jobq_test.go:157: task err [jobq: queue size exceeded][488]
+jobq_test.go:157: task err [jobq: queue size exceeded][490]
+jobq_test.go:157: task err [jobq: queue size exceeded][491]
+jobq_test.go:157: task err [jobq: queue size exceeded][492]
+jobq_test.go:157: task err [jobq: queue size exceeded][493]
+jobq_test.go:157: task err [jobq: queue size exceeded][495]
+jobq_test.go:157: task err [jobq: queue size exceeded][496]
+jobq_test.go:157: task err [jobq: queue size exceeded][497]
+jobq_test.go:157: task err [jobq: queue size exceeded][498]
+jobq_test.go:157: task err [jobq: queue size exceeded][499]
+jobq_test.go:157: task err [jobq: queue size exceeded][500]
+jobq_test.go:157: task err [jobq: queue size exceeded][501]
+jobq_test.go:157: task err [jobq: queue size exceeded][502]
+jobq_test.go:157: task err [jobq: queue size exceeded][503]
+jobq_test.go:157: task err [jobq: queue size exceeded][504]
+jobq_test.go:157: task err [jobq: queue size exceeded][505]
+jobq_test.go:157: task err [jobq: queue size exceeded][506]
+jobq_test.go:157: task err [jobq: queue size exceeded][507]
+jobq_test.go:157: task err [jobq: queue size exceeded][508]
+jobq_test.go:157: task err [jobq: queue size exceeded][509]
+jobq_test.go:157: task err [jobq: queue size exceeded][510]
+jobq_test.go:157: task err [jobq: queue size exceeded][511]
+jobq_test.go:157: task err [jobq: queue size exceeded][512]
+jobq_test.go:157: task err [jobq: queue size exceeded][513]
+jobq_test.go:157: task err [jobq: queue size exceeded][514]
+jobq_test.go:157: task err [jobq: queue size exceeded][515]
+jobq_test.go:157: task err [jobq: queue size exceeded][516]
+jobq_test.go:157: task err [jobq: queue size exceeded][517]
+jobq_test.go:157: task err [jobq: queue size exceeded][518]
+jobq_test.go:157: task err [jobq: queue size exceeded][519]
+jobq_test.go:157: task err [jobq: queue size exceeded][520]
+jobq_test.go:157: task err [jobq: queue size exceeded][521]
+jobq_test.go:157: task err [jobq: queue size exceeded][522]
+jobq_test.go:157: task err [jobq: queue size exceeded][523]
+jobq_test.go:157: task err [jobq: queue size exceeded][524]
+jobq_test.go:157: task err [jobq: queue size exceeded][525]
+jobq_test.go:157: task err [jobq: queue size exceeded][526]
+jobq_test.go:157: task err [jobq: queue size exceeded][527]
+jobq_test.go:157: task err [jobq: queue size exceeded][528]
+jobq_test.go:157: task err [jobq: queue size exceeded][529]
+jobq_test.go:157: task err [jobq: queue size exceeded][530]
+jobq_test.go:157: task err [jobq: queue size exceeded][531]
+jobq_test.go:157: task err [jobq: queue size exceeded][532]
+jobq_test.go:157: task err [jobq: queue size exceeded][533]
+jobq_test.go:157: task err [jobq: queue size exceeded][534]
+jobq_test.go:157: task err [jobq: queue size exceeded][535]
+jobq_test.go:157: task err [jobq: queue size exceeded][536]
+jobq_test.go:157: task err [jobq: queue size exceeded][537]
+jobq_test.go:157: task err [jobq: queue size exceeded][538]
+jobq_test.go:157: task err [jobq: queue size exceeded][539]
+jobq_test.go:157: task err [jobq: queue size exceeded][540]
+jobq_test.go:157: task err [jobq: queue size exceeded][541]
+jobq_test.go:157: task err [jobq: queue size exceeded][542]
+jobq_test.go:157: task err [jobq: queue size exceeded][543]
+jobq_test.go:157: task err [jobq: queue size exceeded][544]
+jobq_test.go:157: task err [jobq: queue size exceeded][545]
+jobq_test.go:157: task err [jobq: queue size exceeded][546]
+jobq_test.go:157: task err [jobq: queue size exceeded][547]
+jobq_test.go:157: task err [jobq: queue size exceeded][548]
+jobq_test.go:157: task err [jobq: queue size exceeded][549]
+jobq_test.go:157: task err [jobq: queue size exceeded][550]
+jobq_test.go:157: task err [jobq: queue size exceeded][551]
+jobq_test.go:157: task err [jobq: queue size exceeded][552]
+jobq_test.go:157: task err [jobq: queue size exceeded][553]
+jobq_test.go:157: task err [jobq: queue size exceeded][554]
+jobq_test.go:157: task err [jobq: queue size exceeded][555]
+jobq_test.go:157: task err [jobq: queue size exceeded][556]
+jobq_test.go:157: task err [jobq: queue size exceeded][557]
+jobq_test.go:157: task err [jobq: queue size exceeded][558]
+jobq_test.go:157: task err [jobq: queue size exceeded][559]
+jobq_test.go:157: task err [jobq: queue size exceeded][560]
+jobq_test.go:157: task err [jobq: queue size exceeded][561]
+jobq_test.go:157: task err [jobq: queue size exceeded][562]
+jobq_test.go:157: task err [jobq: queue size exceeded][563]
+jobq_test.go:157: task err [jobq: queue size exceeded][564]
+jobq_test.go:157: task err [jobq: queue size exceeded][565]
+jobq_test.go:157: task err [jobq: queue size exceeded][566]
+jobq_test.go:157: task err [jobq: queue size exceeded][567]
+jobq_test.go:157: task err [jobq: queue size exceeded][568]
+jobq_test.go:157: task err [jobq: queue size exceeded][569]
+jobq_test.go:157: task err [jobq: queue size exceeded][570]
+jobq_test.go:157: task err [jobq: queue size exceeded][571]
+jobq_test.go:157: task err [jobq: queue size exceeded][572]
+jobq_test.go:157: task err [jobq: queue size exceeded][573]
+jobq_test.go:157: task err [jobq: queue size exceeded][574]
+jobq_test.go:157: task err [jobq: queue size exceeded][575]
+jobq_test.go:157: task err [jobq: queue size exceeded][576]
+jobq_test.go:157: task err [jobq: queue size exceeded][577]
+jobq_test.go:157: task err [jobq: queue size exceeded][578]
+jobq_test.go:157: task err [jobq: queue size exceeded][579]
+jobq_test.go:157: task err [jobq: queue size exceeded][580]
+jobq_test.go:157: task err [jobq: queue size exceeded][581]
+jobq_test.go:157: task err [jobq: queue size exceeded][582]
+jobq_test.go:157: task err [jobq: queue size exceeded][583]
+jobq_test.go:157: task err [jobq: queue size exceeded][584]
+jobq_test.go:157: task err [jobq: queue size exceeded][585]
+jobq_test.go:157: task err [jobq: queue size exceeded][586]
+jobq_test.go:157: task err [jobq: queue size exceeded][588]
+jobq_test.go:157: task err [jobq: queue size exceeded][589]
+jobq_test.go:157: task err [jobq: queue size exceeded][590]
+jobq_test.go:157: task err [jobq: queue size exceeded][591]
+jobq_test.go:157: task err [jobq: queue size exceeded][592]
+jobq_test.go:157: task err [jobq: queue size exceeded][593]
+jobq_test.go:157: task err [jobq: queue size exceeded][594]
+jobq_test.go:157: task err [jobq: queue size exceeded][595]
+jobq_test.go:157: task err [jobq: queue size exceeded][596]
+jobq_test.go:157: task err [jobq: queue size exceeded][597]
+jobq_test.go:157: task err [jobq: queue size exceeded][598]
+jobq_test.go:157: task err [jobq: queue size exceeded][599]
+jobq_test.go:157: task err [jobq: queue size exceeded][600]
+jobq_test.go:157: task err [jobq: queue size exceeded][601]
+jobq_test.go:157: task err [jobq: queue size exceeded][602]
+jobq_test.go:157: task err [jobq: queue size exceeded][603]
+jobq_test.go:157: task err [jobq: queue size exceeded][604]
+jobq_test.go:157: task err [jobq: queue size exceeded][605]
+jobq_test.go:157: task err [jobq: queue size exceeded][606]
+jobq_test.go:157: task err [jobq: queue size exceeded][607]
+jobq_test.go:157: task err [jobq: queue size exceeded][608]
+jobq_test.go:157: task err [jobq: queue size exceeded][609]
+jobq_test.go:157: task err [jobq: queue size exceeded][610]
+jobq_test.go:157: task err [jobq: queue size exceeded][611]
+jobq_test.go:157: task err [jobq: queue size exceeded][612]
+jobq_test.go:157: task err [jobq: queue size exceeded][613]
+jobq_test.go:157: task err [jobq: queue size exceeded][614]
+jobq_test.go:157: task err [jobq: queue size exceeded][615]
+jobq_test.go:157: task err [jobq: queue size exceeded][616]
+jobq_test.go:157: task err [jobq: queue size exceeded][617]
+jobq_test.go:157: task err [jobq: queue size exceeded][618]
+jobq_test.go:157: task err [jobq: queue size exceeded][619]
+jobq_test.go:157: task err [jobq: queue size exceeded][620]
+jobq_test.go:157: task err [jobq: queue size exceeded][621]
+jobq_test.go:157: task err [jobq: queue size exceeded][622]
+jobq_test.go:157: task err [jobq: queue size exceeded][623]
+jobq_test.go:157: task err [jobq: queue size exceeded][624]
+jobq_test.go:157: task err [jobq: queue size exceeded][625]
+jobq_test.go:157: task err [jobq: queue size exceeded][626]
+jobq_test.go:157: task err [jobq: queue size exceeded][627]
+jobq_test.go:157: task err [jobq: queue size exceeded][628]
+jobq_test.go:157: task err [jobq: queue size exceeded][629]
+jobq_test.go:157: task err [jobq: queue size exceeded][630]
+jobq_test.go:157: task err [jobq: queue size exceeded][631]
+jobq_test.go:157: task err [jobq: queue size exceeded][632]
+jobq_test.go:157: task err [jobq: queue size exceeded][633]
+jobq_test.go:157: task err [jobq: queue size exceeded][634]
+jobq_test.go:157: task err [jobq: queue size exceeded][635]
+jobq_test.go:157: task err [jobq: queue size exceeded][636]
+jobq_test.go:157: task err [jobq: queue size exceeded][637]
+jobq_test.go:157: task err [jobq: queue size exceeded][638]
+jobq_test.go:157: task err [jobq: queue size exceeded][639]
+jobq_test.go:157: task err [jobq: queue size exceeded][640]
+jobq_test.go:157: task err [jobq: queue size exceeded][641]
+jobq_test.go:157: task err [jobq: queue size exceeded][642]
+jobq_test.go:157: task err [jobq: queue size exceeded][643]
+jobq_test.go:157: task err [jobq: queue size exceeded][644]
+jobq_test.go:157: task err [jobq: queue size exceeded][646]
+jobq_test.go:157: task err [jobq: queue size exceeded][647]
+jobq_test.go:157: task err [jobq: queue size exceeded][648]
+jobq_test.go:157: task err [jobq: queue size exceeded][649]
+jobq_test.go:157: task err [jobq: queue size exceeded][650]
+jobq_test.go:157: task err [jobq: queue size exceeded][651]
+jobq_test.go:157: task err [jobq: queue size exceeded][652]
+jobq_test.go:157: task err [jobq: queue size exceeded][653]
+jobq_test.go:157: task err [jobq: queue size exceeded][654]
+jobq_test.go:157: task err [jobq: queue size exceeded][655]
+jobq_test.go:157: task err [jobq: queue size exceeded][656]
+jobq_test.go:157: task err [jobq: queue size exceeded][657]
+jobq_test.go:157: task err [jobq: queue size exceeded][658]
+jobq_test.go:157: task err [jobq: queue size exceeded][659]
+jobq_test.go:157: task err [jobq: queue size exceeded][660]
+jobq_test.go:157: task err [jobq: queue size exceeded][661]
+jobq_test.go:157: task err [jobq: queue size exceeded][662]
+jobq_test.go:157: task err [jobq: queue size exceeded][663]
+jobq_test.go:157: task err [jobq: queue size exceeded][664]
+jobq_test.go:157: task err [jobq: queue size exceeded][665]
+jobq_test.go:157: task err [jobq: queue size exceeded][666]
+jobq_test.go:157: task err [jobq: queue size exceeded][667]
+jobq_test.go:157: task err [jobq: queue size exceeded][668]
+jobq_test.go:157: task err [jobq: queue size exceeded][669]
+jobq_test.go:157: task err [jobq: queue size exceeded][670]
+jobq_test.go:157: task err [jobq: queue size exceeded][671]
+jobq_test.go:157: task err [jobq: queue size exceeded][672]
+jobq_test.go:157: task err [jobq: queue size exceeded][673]
+jobq_test.go:157: task err [jobq: queue size exceeded][674]
+jobq_test.go:157: task err [jobq: queue size exceeded][675]
+jobq_test.go:157: task err [jobq: queue size exceeded][676]
+jobq_test.go:157: task err [jobq: queue size exceeded][677]
+jobq_test.go:157: task err [jobq: queue size exceeded][678]
+jobq_test.go:157: task err [jobq: queue size exceeded][679]
+jobq_test.go:157: task err [jobq: queue size exceeded][680]
+jobq_test.go:157: task err [jobq: queue size exceeded][681]
+jobq_test.go:157: task err [jobq: queue size exceeded][682]
+jobq_test.go:157: task err [jobq: queue size exceeded][683]
+jobq_test.go:157: task err [jobq: queue size exceeded][684]
+jobq_test.go:157: task err [jobq: queue size exceeded][685]
+jobq_test.go:157: task err [jobq: queue size exceeded][687]
+jobq_test.go:157: task err [jobq: queue size exceeded][688]
+jobq_test.go:157: task err [jobq: queue size exceeded][689]
+jobq_test.go:157: task err [jobq: queue size exceeded][690]
+jobq_test.go:157: task err [jobq: queue size exceeded][691]
+jobq_test.go:157: task err [jobq: queue size exceeded][693]
+jobq_test.go:157: task err [jobq: queue size exceeded][694]
+jobq_test.go:157: task err [jobq: queue size exceeded][695]
+jobq_test.go:157: task err [jobq: queue size exceeded][696]
+jobq_test.go:157: task err [jobq: queue size exceeded][697]
+jobq_test.go:157: task err [jobq: queue size exceeded][698]
+jobq_test.go:157: task err [jobq: queue size exceeded][700]
+jobq_test.go:157: task err [jobq: queue size exceeded][701]
+jobq_test.go:157: task err [jobq: queue size exceeded][702]
+jobq_test.go:157: task err [jobq: queue size exceeded][703]
+jobq_test.go:157: task err [jobq: queue size exceeded][704]
+jobq_test.go:157: task err [jobq: queue size exceeded][705]
+jobq_test.go:157: task err [jobq: queue size exceeded][706]
+jobq_test.go:157: task err [jobq: queue size exceeded][708]
+jobq_test.go:157: task err [jobq: queue size exceeded][709]
+jobq_test.go:157: task err [jobq: queue size exceeded][710]
+jobq_test.go:157: task err [jobq: queue size exceeded][711]
+jobq_test.go:157: task err [jobq: queue size exceeded][712]
+jobq_test.go:157: task err [jobq: queue size exceeded][713]
+jobq_test.go:157: task err [jobq: queue size exceeded][715]
+jobq_test.go:157: task err [jobq: queue size exceeded][716]
+jobq_test.go:157: task err [jobq: queue size exceeded][717]
+jobq_test.go:157: task err [jobq: queue size exceeded][718]
+jobq_test.go:157: task err [jobq: queue size exceeded][719]
+jobq_test.go:157: task err [jobq: queue size exceeded][721]
+jobq_test.go:157: task err [jobq: queue size exceeded][722]
+jobq_test.go:157: task err [jobq: queue size exceeded][723]
+jobq_test.go:157: task err [jobq: queue size exceeded][725]
+jobq_test.go:157: task err [jobq: queue size exceeded][726]
+jobq_test.go:157: task err [jobq: queue size exceeded][727]
+jobq_test.go:157: task err [jobq: queue size exceeded][728]
+jobq_test.go:157: task err [jobq: queue size exceeded][729]
+jobq_test.go:157: task err [jobq: queue size exceeded][731]
+jobq_test.go:157: task err [jobq: queue size exceeded][732]
+jobq_test.go:157: task err [jobq: queue size exceeded][733]
+jobq_test.go:157: task err [jobq: queue size exceeded][735]
+jobq_test.go:157: task err [jobq: queue size exceeded][736]
+jobq_test.go:157: task err [jobq: queue size exceeded][737]
+jobq_test.go:157: task err [jobq: queue size exceeded][739]
+jobq_test.go:157: task err [jobq: queue size exceeded][740]
+jobq_test.go:157: task err [jobq: queue size exceeded][741]
+jobq_test.go:157: task err [jobq: queue size exceeded][742]
+jobq_test.go:157: task err [jobq: queue size exceeded][743]
+jobq_test.go:157: task err [jobq: queue size exceeded][744]
+jobq_test.go:157: task err [jobq: queue size exceeded][745]
+jobq_test.go:157: task err [jobq: queue size exceeded][747]
+jobq_test.go:157: task err [jobq: queue size exceeded][748]
+jobq_test.go:157: task err [jobq: queue size exceeded][749]
+jobq_test.go:157: task err [jobq: queue size exceeded][750]
+jobq_test.go:157: task err [jobq: queue size exceeded][751]
+jobq_test.go:157: task err [jobq: queue size exceeded][752]
+jobq_test.go:157: task err [jobq: queue size exceeded][753]
+jobq_test.go:157: task err [jobq: queue size exceeded][754]
+jobq_test.go:157: task err [jobq: queue size exceeded][755]
+jobq_test.go:157: task err [jobq: queue size exceeded][756]
+jobq_test.go:157: task err [jobq: queue size exceeded][758]
+jobq_test.go:157: task err [jobq: queue size exceeded][759]
+jobq_test.go:157: task err [jobq: queue size exceeded][761]
+jobq_test.go:157: task err [jobq: queue size exceeded][762]
+jobq_test.go:157: task err [jobq: queue size exceeded][763]
+jobq_test.go:157: task err [jobq: queue size exceeded][765]
+jobq_test.go:157: task err [jobq: queue size exceeded][766]
+jobq_test.go:157: task err [jobq: queue size exceeded][767]
+jobq_test.go:157: task err [jobq: queue size exceeded][768]
+jobq_test.go:157: task err [jobq: queue size exceeded][770]
+jobq_test.go:157: task err [jobq: queue size exceeded][772]
+jobq_test.go:157: task err [jobq: queue size exceeded][773]
+jobq_test.go:157: task err [jobq: queue size exceeded][774]
+jobq_test.go:157: task err [jobq: queue size exceeded][776]
+jobq_test.go:157: task err [jobq: queue size exceeded][777]
+jobq_test.go:157: task err [jobq: queue size exceeded][778]
+jobq_test.go:157: task err [jobq: queue size exceeded][779]
+jobq_test.go:157: task err [jobq: queue size exceeded][780]
+jobq_test.go:157: task err [jobq: queue size exceeded][781]
+jobq_test.go:157: task err [jobq: queue size exceeded][782]
+jobq_test.go:157: task err [jobq: queue size exceeded][783]
+jobq_test.go:157: task err [jobq: queue size exceeded][784]
+jobq_test.go:157: task err [jobq: queue size exceeded][785]
+jobq_test.go:157: task err [jobq: queue size exceeded][787]
+jobq_test.go:157: task err [jobq: queue size exceeded][788]
+jobq_test.go:157: task err [jobq: queue size exceeded][789]
+jobq_test.go:157: task err [jobq: queue size exceeded][790]
+jobq_test.go:157: task err [jobq: queue size exceeded][791]
+jobq_test.go:157: task err [jobq: queue size exceeded][792]
+jobq_test.go:157: task err [jobq: queue size exceeded][793]
+jobq_test.go:157: task err [jobq: queue size exceeded][794]
+jobq_test.go:157: task err [jobq: queue size exceeded][796]
+jobq_test.go:157: task err [jobq: queue size exceeded][797]
+jobq_test.go:157: task err [jobq: queue size exceeded][798]
+jobq_test.go:157: task err [jobq: queue size exceeded][799]
+jobq_test.go:157: task err [jobq: queue size exceeded][800]
+jobq_test.go:157: task err [jobq: queue size exceeded][801]
+jobq_test.go:157: task err [jobq: queue size exceeded][802]
+jobq_test.go:157: task err [jobq: queue size exceeded][803]
+jobq_test.go:157: task err [jobq: queue size exceeded][805]
+jobq_test.go:157: task err [jobq: queue size exceeded][806]
+jobq_test.go:157: task err [jobq: queue size exceeded][807]
+jobq_test.go:157: task err [jobq: queue size exceeded][808]
+jobq_test.go:157: task err [jobq: queue size exceeded][810]
+jobq_test.go:157: task err [jobq: queue size exceeded][811]
+jobq_test.go:157: task err [jobq: queue size exceeded][812]
+jobq_test.go:157: task err [jobq: queue size exceeded][813]
+jobq_test.go:157: task err [jobq: queue size exceeded][815]
+jobq_test.go:157: task err [jobq: queue size exceeded][816]
+jobq_test.go:157: task err [jobq: queue size exceeded][817]
+jobq_test.go:157: task err [jobq: queue size exceeded][818]
+jobq_test.go:157: task err [jobq: queue size exceeded][820]
+jobq_test.go:157: task err [jobq: queue size exceeded][821]
+jobq_test.go:157: task err [jobq: queue size exceeded][822]
+jobq_test.go:157: task err [jobq: queue size exceeded][824]
+jobq_test.go:157: task err [jobq: queue size exceeded][825]
+jobq_test.go:157: task err [jobq: queue size exceeded][827]
+jobq_test.go:157: task err [jobq: queue size exceeded][828]
+jobq_test.go:157: task err [jobq: queue size exceeded][829]
+jobq_test.go:157: task err [jobq: queue size exceeded][831]
+jobq_test.go:157: task err [jobq: queue size exceeded][832]
+jobq_test.go:157: task err [jobq: queue size exceeded][833]
+jobq_test.go:157: task err [jobq: queue size exceeded][835]
+jobq_test.go:157: task err [jobq: queue size exceeded][836]
+jobq_test.go:157: task err [jobq: queue size exceeded][837]
+jobq_test.go:157: task err [jobq: queue size exceeded][838]
+jobq_test.go:157: task err [jobq: queue size exceeded][840]
+jobq_test.go:157: task err [jobq: queue size exceeded][841]
+jobq_test.go:157: task err [jobq: queue size exceeded][843]
+jobq_test.go:157: task err [jobq: queue size exceeded][844]
+jobq_test.go:157: task err [jobq: queue size exceeded][845]
+jobq_test.go:157: task err [jobq: queue size exceeded][847]
+jobq_test.go:157: task err [jobq: queue size exceeded][848]
+jobq_test.go:157: task err [jobq: queue size exceeded][849]
+jobq_test.go:157: task err [jobq: queue size exceeded][851]
+jobq_test.go:157: task err [jobq: queue size exceeded][852]
+jobq_test.go:157: task err [jobq: queue size exceeded][853]
+jobq_test.go:157: task err [jobq: queue size exceeded][854]
+jobq_test.go:157: task err [jobq: queue size exceeded][856]
+jobq_test.go:157: task err [jobq: queue size exceeded][857]
+jobq_test.go:157: task err [jobq: queue size exceeded][858]
+jobq_test.go:157: task err [jobq: queue size exceeded][859]
+jobq_test.go:157: task err [jobq: queue size exceeded][860]
+jobq_test.go:157: task err [jobq: queue size exceeded][861]
+jobq_test.go:157: task err [jobq: queue size exceeded][862]
+jobq_test.go:157: task err [jobq: queue size exceeded][864]
+jobq_test.go:157: task err [jobq: queue size exceeded][865]
+jobq_test.go:157: task err [jobq: queue size exceeded][866]
+jobq_test.go:157: task err [jobq: queue size exceeded][867]
+jobq_test.go:157: task err [jobq: queue size exceeded][868]
+jobq_test.go:157: task err [jobq: queue size exceeded][869]
+jobq_test.go:157: task err [jobq: queue size exceeded][870]
+jobq_test.go:157: task err [jobq: queue size exceeded][871]
+jobq_test.go:157: task err [jobq: queue size exceeded][873]
+jobq_test.go:157: task err [jobq: queue size exceeded][874]
+jobq_test.go:157: task err [jobq: queue size exceeded][875]
+jobq_test.go:157: task err [jobq: queue size exceeded][876]
+jobq_test.go:157: task err [jobq: queue size exceeded][877]
+jobq_test.go:157: task err [jobq: queue size exceeded][878]
+jobq_test.go:157: task err [jobq: queue size exceeded][879]
+jobq_test.go:157: task err [jobq: queue size exceeded][880]
+jobq_test.go:157: task err [jobq: queue size exceeded][881]
+jobq_test.go:157: task err [jobq: queue size exceeded][882]
+jobq_test.go:157: task err [jobq: queue size exceeded][883]
+jobq_test.go:157: task err [jobq: queue size exceeded][884]
+jobq_test.go:157: task err [jobq: queue size exceeded][886]
+jobq_test.go:157: task err [jobq: queue size exceeded][887]
+jobq_test.go:157: task err [jobq: queue size exceeded][888]
+jobq_test.go:157: task err [jobq: queue size exceeded][889]
+jobq_test.go:157: task err [jobq: queue size exceeded][890]
+jobq_test.go:157: task err [jobq: queue size exceeded][891]
+jobq_test.go:157: task err [jobq: queue size exceeded][892]
+jobq_test.go:157: task err [jobq: queue size exceeded][893]
+jobq_test.go:157: task err [jobq: queue size exceeded][894]
+jobq_test.go:157: task err [jobq: queue size exceeded][895]
+jobq_test.go:157: task err [jobq: queue size exceeded][896]
+jobq_test.go:157: task err [jobq: queue size exceeded][898]
+jobq_test.go:157: task err [jobq: queue size exceeded][899]
+jobq_test.go:157: task err [jobq: queue size exceeded][900]
+jobq_test.go:157: task err [jobq: queue size exceeded][901]
+jobq_test.go:157: task err [jobq: queue size exceeded][902]
+jobq_test.go:157: task err [jobq: queue size exceeded][903]
+jobq_test.go:157: task err [jobq: queue size exceeded][904]
+jobq_test.go:157: task err [jobq: queue size exceeded][906]
+jobq_test.go:157: task err [jobq: queue size exceeded][907]
+jobq_test.go:157: task err [jobq: queue size exceeded][908]
+jobq_test.go:157: task err [jobq: queue size exceeded][909]
+jobq_test.go:157: task err [jobq: queue size exceeded][910]
+jobq_test.go:157: task err [jobq: queue size exceeded][911]
+jobq_test.go:157: task err [jobq: queue size exceeded][912]
+jobq_test.go:157: task err [jobq: queue size exceeded][913]
+jobq_test.go:157: task err [jobq: queue size exceeded][914]
+jobq_test.go:157: task err [jobq: queue size exceeded][916]
+jobq_test.go:157: task err [jobq: queue size exceeded][917]
+jobq_test.go:157: task err [jobq: queue size exceeded][918]
+jobq_test.go:157: task err [jobq: queue size exceeded][919]
+jobq_test.go:157: task err [jobq: queue size exceeded][920]
+jobq_test.go:157: task err [jobq: queue size exceeded][921]
+jobq_test.go:157: task err [jobq: queue size exceeded][922]
+jobq_test.go:157: task err [jobq: queue size exceeded][923]
+jobq_test.go:157: task err [jobq: queue size exceeded][925]
+jobq_test.go:157: task err [jobq: queue size exceeded][926]
+jobq_test.go:157: task err [jobq: queue size exceeded][927]
+jobq_test.go:157: task err [jobq: queue size exceeded][928]
+jobq_test.go:157: task err [jobq: queue size exceeded][929]
+jobq_test.go:157: task err [jobq: queue size exceeded][930]
+jobq_test.go:157: task err [jobq: queue size exceeded][931]
+jobq_test.go:157: task err [jobq: queue size exceeded][932]
+jobq_test.go:157: task err [jobq: queue size exceeded][933]
+jobq_test.go:157: task err [jobq: queue size exceeded][934]
+jobq_test.go:157: task err [jobq: queue size exceeded][936]
+jobq_test.go:157: task err [jobq: queue size exceeded][937]
+jobq_test.go:157: task err [jobq: queue size exceeded][938]
+jobq_test.go:157: task err [jobq: queue size exceeded][939]
+jobq_test.go:157: task err [jobq: queue size exceeded][940]
+jobq_test.go:157: task err [jobq: queue size exceeded][941]
+jobq_test.go:157: task err [jobq: queue size exceeded][942]
+jobq_test.go:157: task err [jobq: queue size exceeded][943]
+jobq_test.go:157: task err [jobq: queue size exceeded][944]
+jobq_test.go:157: task err [jobq: queue size exceeded][946]
+jobq_test.go:157: task err [jobq: queue size exceeded][947]
+jobq_test.go:157: task err [jobq: queue size exceeded][948]
+jobq_test.go:157: task err [jobq: queue size exceeded][949]
+jobq_test.go:157: task err [jobq: queue size exceeded][950]
+jobq_test.go:157: task err [jobq: queue size exceeded][951]
+jobq_test.go:157: task err [jobq: queue size exceeded][952]
+jobq_test.go:157: task err [jobq: queue size exceeded][953]
+jobq_test.go:157: task err [jobq: queue size exceeded][954]
+jobq_test.go:157: task err [jobq: queue size exceeded][955]
+jobq_test.go:157: task err [jobq: queue size exceeded][956]
+jobq_test.go:157: task err [jobq: queue size exceeded][958]
+jobq_test.go:157: task err [jobq: queue size exceeded][959]
+jobq_test.go:157: task err [jobq: queue size exceeded][960]
+jobq_test.go:157: task err [jobq: queue size exceeded][961]
+jobq_test.go:157: task err [jobq: queue size exceeded][962]
+jobq_test.go:157: task err [jobq: queue size exceeded][963]
+jobq_test.go:157: task err [jobq: queue size exceeded][964]
+jobq_test.go:157: task err [jobq: queue size exceeded][965]
+jobq_test.go:157: task err [jobq: queue size exceeded][966]
+jobq_test.go:157: task err [jobq: queue size exceeded][967]
+jobq_test.go:157: task err [jobq: queue size exceeded][968]
+jobq_test.go:134: done xx [1]
+jobq_test.go:134: done xx [2]
+jobq_test.go:134: done xx [3]
+jobq_test.go:134: done xx [4]
+jobq.go:168: Done
+==================
+WARNING: DATA RACE
+Write at 0x00c0420120d3 by goroutine 16:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func2()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:138 +0x1aa
+
+Previous read at 0x00c0420120d3 by goroutine 17:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:145 +0x61
+
+Goroutine 16 (running) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:142 +0x1ac
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Goroutine 17 (running) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Read at 0x00c0420085ec by goroutine 17:
+  internal/race.Read()
+      D:/Go/src/internal/race/race.go:37 +0x3f
+  sync.(*WaitGroup).Add()
+      D:/Go/src/sync/waitgroup.go:71 +0x272
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).AddTask()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:152 +0x106
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:155 +0x110
+
+Previous write at 0x00c0420085ec by goroutine 13:
+  internal/race.Write()
+      D:/Go/src/internal/race/race.go:41 +0x3f
+  sync.(*WaitGroup).Wait()
+      D:/Go/src/sync/waitgroup.go:129 +0x152
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Goroutine 17 (running) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd132 by goroutine 13:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:134 +0x74
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd132 by goroutine 17:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:134 +0x74
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd133 by goroutine 13:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:135 +0x90
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd133 by goroutine 17:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:135 +0x90
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd0c0 by goroutine 13:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:136 +0xb3
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd0c0 by goroutine 17:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:136 +0xb3
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd0c8 by goroutine 13:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:136 +0xe2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous read at 0x00c0421bd0c8 by goroutine 17:
+  fmt.(*fmt).pad()
+      D:/Go/src/fmt/format.go:91 +0x5b
+  fmt.(*fmt).fmt_integer()
+      D:/Go/src/fmt/format.go:307 +0x497
+  fmt.(*pp).fmtInteger()
+      D:/Go/src/fmt/print.go:359 +0x307
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:642 +0xae0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd0d0 by goroutine 13:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:136 +0xe2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd0d0 by goroutine 17:
+  fmt.newPrinter()
+      D:/Go/src/fmt/print.go:136 +0xe2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:195 +0x3a
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd130 by goroutine 13:
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:950 +0x77
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd130 by goroutine 17:
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:950 +0x77
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd131 by goroutine 13:
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:953 +0xc1
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd131 by goroutine 17:
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:953 +0xc1
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Read at 0x00c0421bd080 by goroutine 13:
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:959 +0x136
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd080 by goroutine 17:
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:959 +0x206
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421c2480 by goroutine 13:
+  runtime.slicestringcopy()
+      D:/Go/src/runtime/slice.go:195 +0x0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:959 +0x1f2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421c2480 by goroutine 17:
+  runtime.slicestringcopy()
+      D:/Go/src/runtime/slice.go:195 +0x0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:959 +0x1f2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421c2488 by goroutine 13:
+  runtime.slicestringcopy()
+      D:/Go/src/runtime/slice.go:195 +0x0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:959 +0x1f2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421c248a by goroutine 17:
+  runtime.slicestringcopy()
+      D:/Go/src/runtime/slice.go:195 +0x0
+  fmt.(*fmt).padString()
+      D:/Go/src/fmt/format.go:110 +0x11d
+  fmt.(*fmt).fmt_s()
+      D:/Go/src/fmt/format.go:328 +0x75
+  fmt.(*pp).fmtString()
+      D:/Go/src/fmt/print.go:433 +0x1c3
+  fmt.(*pp).handleMethods()
+      D:/Go/src/fmt/print.go:590 +0x322
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:679 +0x139
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421c24a0 by goroutine 13:
+  runtime.slicestringcopy()
+      D:/Go/src/runtime/slice.go:195 +0x0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:959 +0x1f2
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous read at 0x00c0421c24a0 by goroutine 17:
+  runtime.slicebytetostring()
+      D:/Go/src/runtime/string.go:72 +0x0
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:197 +0xbb
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd098 by goroutine 13:
+  fmt.(*pp).free()
+      D:/Go/src/fmt/print.go:143 +0x71
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:198 +0xdd
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd098 by goroutine 17:
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:605 +0x63
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd0a8 by goroutine 13:
+  fmt.(*pp).free()
+      D:/Go/src/fmt/print.go:144 +0xae
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:198 +0xdd
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x6b
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd0a8 by goroutine 17:
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:606 +0xb0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd12b by goroutine 13:
+  fmt.(*fmt).fmt_integer()
+      D:/Go/src/fmt/format.go:244 +0x7f7
+  fmt.(*pp).fmtInteger()
+      D:/Go/src/fmt/print.go:362 +0x200
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:642 +0xae0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Fprintf()
+      D:/Go/src/fmt/print.go:181 +0x8a
+  testing.decorate()
+      D:/Go/src/testing/testing.go:319 +0x25a
+  testing.(*common).log()
+      D:/Go/src/testing/testing.go:493 +0x95
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x8d
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd12b by goroutine 17:
+  fmt.(*fmt).fmt_integer()
+      D:/Go/src/fmt/format.go:244 +0x7f7
+  fmt.(*pp).fmtInteger()
+      D:/Go/src/fmt/print.go:359 +0x307
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:642 +0xae0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+==================
+WARNING: DATA RACE
+Write at 0x00c0421bd129 by goroutine 13:
+  fmt.(*fmt).fmt_integer()
+      D:/Go/src/fmt/format.go:269 +0x25a
+  fmt.(*pp).fmtInteger()
+      D:/Go/src/fmt/print.go:362 +0x200
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:642 +0xae0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Fprintf()
+      D:/Go/src/fmt/print.go:181 +0x8a
+  testing.decorate()
+      D:/Go/src/testing/testing.go:319 +0x25a
+  testing.(*common).log()
+      D:/Go/src/testing/testing.go:493 +0x95
+  testing.(*common).Errorf()
+      D:/Go/src/testing/testing.go:517 +0x8d
+  testing.tRunner.func1()
+      D:/Go/src/testing/testing.go:610 +0x639
+  runtime.call32()
+      D:/Go/src/runtime/asm_amd64.s:514 +0x4e
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x61
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f0
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+
+Previous write at 0x00c0421bd129 by goroutine 17:
+  fmt.(*fmt).fmt_integer()
+      D:/Go/src/fmt/format.go:269 +0x25a
+  fmt.(*pp).fmtInteger()
+      D:/Go/src/fmt/print.go:359 +0x307
+  fmt.(*pp).printArg()
+      D:/Go/src/fmt/print.go:642 +0xae0
+  fmt.(*pp).doPrintf()
+      D:/Go/src/fmt/print.go:998 +0x1cb4
+  fmt.Sprintf()
+      D:/Go/src/fmt/print.go:196 +0x7e
+  log.Printf()
+      D:/Go/src/log/log.go:291 +0x6b
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple.func3()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:157 +0x21d
+
+Goroutine 13 (running) created at:
+  testing.(*T).Run()
+      D:/Go/src/testing/testing.go:697 +0x54a
+  testing.runTests.func1()
+      D:/Go/src/testing/testing.go:882 +0xb1
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+  testing.runTests()
+      D:/Go/src/testing/testing.go:888 +0x4e7
+  testing.(*M).Run()
+      D:/Go/src/testing/testing.go:822 +0x1ca
+  main.main()
+      _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_testmain.go:116 +0x344
+
+Goroutine 17 (finished) created at:
+  _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple()
+      V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:160 +0x1e2
+  testing.tRunner()
+      D:/Go/src/testing/testing.go:657 +0x10e
+==================
+--- FAIL: TestSimple (0.02s)
+        testing.go:610: race detected during execution of test
+panic: sync: WaitGroup is reused before previous Wait has returned [recovered]
+        panic: sync: WaitGroup is reused before previous Wait has returned
+
+goroutine 5 [running]:
+testing.tRunner.func1(0xc0421420d0)
+        D:/Go/src/testing/testing.go:622 +0x566
+panic(0x9048e0, 0xc0421c0370)
+        D:/Go/src/runtime/panic.go:489 +0x2fe
+sync.(*WaitGroup).Wait(0xc0420085e0)
+        D:/Go/src/sync/waitgroup.go:133 +0x13f
+_/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.(*JobQ).Wait(0xc0420085d0)
+        _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq/_test/_obj_test/jobq.go:174 +0x62
+_/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq.TestSimple(0xc0421420d0)
+        V:/RECORD_TEST/refref/testJobQueue/jobQ/jobq/jobq_test.go:162 +0x1f1
+testing.tRunner(0xc0421420d0, 0x9a2e68)
+        D:/Go/src/testing/testing.go:657 +0x10f
+created by testing.(*T).Run
+        D:/Go/src/testing/testing.go:697 +0x54b
+exit status 2
+FAIL    _/V_/RECORD_TEST/refref/testJobQueue/jobQ/jobq  1.954s
+
+zhangbin@DESKTOP-1QV8QU4 MINGW64 /v/RECORD_TEST/refref/testJobQueue/jobQ
+$
